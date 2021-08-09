@@ -35,7 +35,7 @@ act = Label(root, text="\nActive Cases: ", bg="black", fg= "white").grid(row=4, 
 a = Label(root, text="\n" +val[0], bg="black", fg= "white").grid(row=4, column=1)
 
 
-dis = Label(root, text="\nDiscarges: ", bg="black", fg= "white").grid(row=5, column=0)
+dis = Label(root, text="\nDischarges: ", bg="black", fg= "white").grid(row=5, column=0)
 di = Label(root, text="\n"+ val[1], bg="black", fg= "white").grid(row=5, column=1)
 
 dea = Label(root, text="\nDeaths: ", bg="black", fg= "white").grid(row=6, column=0)
